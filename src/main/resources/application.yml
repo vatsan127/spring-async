@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: spring-async
+
+#  task:
+#    execution:
+#      thread-name-prefix: "AsyncExecutor-"
+#      pool:
+#        core-size: 2
+#        max-size: 4
+#        queue-capacity: 6
